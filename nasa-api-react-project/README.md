@@ -1,3 +1,5 @@
+A React project that allows you to view through NASA's Pictures of the Day. Implemented API from NASA's Open APIs: https://api.nasa.gov/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
